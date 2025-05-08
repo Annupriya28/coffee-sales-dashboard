@@ -26,6 +26,19 @@ Used a cleaned dataset from cleaned_coffee_sales_dataset.csv, including:
 - Product, Sales, Category, Location
 - Order Date, Hour, Weekday
 
+
+## 🌐 Live App
+
+🚀 [Click here to view the live dashboard](https://annupriya28-coffee-sales-dashboard.streamlit.app)
+
+
+## 🚀 Deployment
+
+The app is deployed using **Streamlit Community Cloud** and is accessible here:
+
+🔗 [View Live Dashboard](https://annupriya28-coffee-sales-dashboard.streamlit.app)
+
+
 ## 🚀 How to Run
 
 1. Clone the repository  
