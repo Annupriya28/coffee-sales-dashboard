@@ -29,14 +29,12 @@ Used a cleaned dataset from cleaned_coffee_sales_dataset.csv, including:
 
 ## 🌐 Live App
 
-🚀 [Click here to view the live dashboard](https://annupriya28-coffee-sales-dashboard.streamlit.app)
+🚀 [Click here to view the live dashboard](https://coffee-sales-dashboard.streamlit.app)
 
 
 ## 🚀 Deployment
 
-The app is deployed using **Streamlit Community Cloud** and is accessible here:
-
-🔗 [View Live Dashboard](https://annupriya28-coffee-sales-dashboard.streamlit.app)
+The app is deployed using **Streamlit Community Cloud** and can be accessed by anyone with the link above.
 
 
 ## 🚀 How to Run
